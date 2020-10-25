@@ -1,1 +1,1 @@
-// Start hacking!
+// Hack me!
