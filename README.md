@@ -2,6 +2,8 @@
 
 This plugin is a template for creating your own plugin.
 
+You can make your own plugin by following [this tutorial](https://github.com/saurusmc/create-saurus/wiki/Making-a-plugin)
+
 ### Installing
 
 #### Approved
